@@ -1,0 +1,6 @@
+- Puedes revisar el decorador @st.cache para no correr todo el código de nuevo cuando se cambie un parámetros.
+
+- Se pueden mostrar tablas, arreglos y dataframes.
+
+- El método st.write() es muy útil para mostrar texto, imágenes, videos, etc.
+
